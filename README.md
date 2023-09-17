@@ -65,6 +65,7 @@ Here are some screenshots of the Campus Management System:
 ## Acknowledgments
 
 We would like to acknowledge the support and guidance of our team members and mentors throughout the development process.
+For More clarification about this project view this [Linkedin_Post](https://www.linkedin.com/posts/manoj-kumaran-s-82a81b27b_campusmanagementsystem-softwaredevelopment-activity-7108437022108753920-kgQe?utm_source=share&utm_medium=member_desktop)
 
 ---
 
