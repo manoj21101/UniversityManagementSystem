@@ -22,12 +22,51 @@ Follow these steps to get the Campus Management System up and running:
 1. **Clone the Repository**:
    - Clone the repository using the following command:
      ```
-     git clone https://github.com/yourusername/campus-management-system.git
+     https://github.com/manoj21101/UniversityManagementSystem
      ```
+   - Or by downloading the Zip
 
 2. **Required Software**:
 
    Make sure you have the following software installed:
-   - Java Development Kit (JDK)
-   - Any Java Integrated Development Environment (IDE) like Eclipse, IntelliJ IDEA, or Visual Studio Code.
+   - Java Development Kit (JDK).
+   - Any Java Integrated Development Environment (IDE) like IntelliJ IDEA(preferred), Eclipse or Visual Studio Code.
+   -Download Xampp for database connection by importing the sql file in it.
+   -Make sure the username & Password for the localhost for the connection.
+
+3. **Compile and Run**:
+   - Navigate to the project directory:
+     ```
+     cd campus-management-system
+     ```
+   - Compile the Main.java file:
+     ```
+     javac Main.java
+     ```
+   - Run the application:
+     ```
+     java Main
+     ```
+
+## Screenshots
+
+Here are some screenshots of the Campus Management System:
+
+![Login Screen](/screenshots/login.png)
+*Login Screen*
+
+![Student Data](/screenshots/student-data.png)
+*Student Data View*
+
+![Teacher Data](/screenshots/teacher-data.png)
+*Teacher Data View*
+
+
+## Acknowledgments
+
+We would like to acknowledge the support and guidance of our team members and mentors throughout the development process.
+
+---
+
+Thank you for checking out our Campus Management System project! If you have any questions or feedback, feel free to [contact us](mailto:manojsaravanan10@gmail.com).
 
